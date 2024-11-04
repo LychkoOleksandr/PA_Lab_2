@@ -1,0 +1,6 @@
+﻿services:
+  lab_2_pa:
+    image: lab_2_pa
+    build:
+      context: .
+      dockerfile: Lab_2_PA/Dockerfile
